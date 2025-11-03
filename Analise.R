@@ -9,3 +9,6 @@ y = c(1,5,6,5)
 
 #Verificando a correlação de y e x
 cor(x,y)
+
+#Modificação
+a = x
